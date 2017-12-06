@@ -300,6 +300,14 @@ public class PicturePicker {
             this.bitmap = bitmap;
             this.uri = uri;
         }
+
+        @Override
+        public String toString() {
+            return "BitmapLoad{" +
+                    "bitmap=" + bitmap +
+                    ", uri=" + uri +
+                    '}';
+        }
     }
 
     public void OnActivityResult(int requestCode, int resultCode, Intent data) throws Exception {

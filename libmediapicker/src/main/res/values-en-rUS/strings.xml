@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MediaPicker</string>
+    <string name="take_phoho">Take a picture</string>
+    <string name="select_from_the_album">Select from the album</string>
+    <string name="cancel">Cancel</string>
+</resources>

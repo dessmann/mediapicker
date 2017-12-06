@@ -29,7 +29,7 @@
                 android:background="@drawable/bt_nobgd"
                 android:textColor="#585858"
                 android:textSize="18sp"
-                android:text="拍照" />
+                android:text="@string/take_phoho" />
         </LinearLayout>
 
         <TextView
@@ -50,7 +50,7 @@
                 android:background="@drawable/bt_nobgd"
                 android:textColor="#585858"
                 android:textSize="18sp"
-                android:text="从相册中选取" />
+                android:text="@string/select_from_the_album" />
         </LinearLayout>
 
         <TextView
@@ -65,7 +65,7 @@
             android:background="@drawable/bt_nobgd"
             android:textColor="#585858"
             android:textSize="18sp"
-            android:text="取消" />
+            android:text="@string/cancel" />
     </LinearLayout>
 
 </RelativeLayout>
