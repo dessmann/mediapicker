@@ -15,7 +15,6 @@ import com.dsm.platform.util.ToastUtil;
 import com.mediapicker.PicturePicker;
 import com.mediapicker.RxBus2;
 
-import rx.Subscriber;
 import rx.functions.Action1;
 
 public class MainActivity extends Activity {
