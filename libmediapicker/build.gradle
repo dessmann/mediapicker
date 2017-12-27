@@ -9,8 +9,8 @@ android {
     defaultConfig {
         minSdkVersion Integer.parseInt(minSdkVersionG)
         targetSdkVersion Integer.parseInt(targetSdkVersionG)
-        versionCode 1
-        versionName "1.0"
+        versionCode 6
+        versionName "1.0.6"
 
     }
     buildTypes {
